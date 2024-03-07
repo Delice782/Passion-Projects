@@ -40,7 +40,7 @@ java ConnectFour
 6. A winning condition is announced if a player connects four of their disks vertically, horizontally, or diagonally.
 7. In case of a full board without any player winning, the game declares a draw.
 
-## Rules
+## RuleS
 
 - Players must alternately drop their colored disks into the grid.
 - Disks fall straight down, occupying the lowest available space within the chosen column.
