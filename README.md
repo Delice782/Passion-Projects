@@ -1,3 +1,3 @@
 # Passion Projects
 
-This repository contains a variety of passion projects that I have worked on so far.
+This repository is dedicated to showcasing my ongoing exploration of diverse tech projects and personal endeavors, reflecting my enthusiasm for continuous learning and innovation in the field of computer science.
