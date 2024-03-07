@@ -1,0 +1,49 @@
+# Connect Four Game
+
+## Project Description
+
+Connect Four is a two-player strategy game that consists of a seven-column, six-row vertically suspended grid. Players take turns dropping colored disks into the columns, with the objective of being the first to connect four of their own disks in a row, column, or diagonal.
+
+This project implements a console-based version of Connect Four, where players alternately drop red or yellow disks on the console. The program updates and displays the board after each move, checks the status of the game, and announces when there's a win, a draw, or if the game should continue.
+
+## Features
+
+- Two-player gameplay on a single console.
+- Alternating turns between player 1 (Red) and player 2 (Yellow).
+- Console representation of the game board, updated after each move.
+- Automatic game status check after each move to determine win, draw, or continuation.
+- Win detection for rows, columns, and diagonals.
+
+## How to Compile and Run
+
+Ensure you have a Java development environment set up. You can compile and run the game using the command line as follows:
+
+1. Compile the game:
+
+```
+javac ConnectFour.java
+```
+
+2. Run the game:
+
+```
+java ConnectFour
+```
+
+## Gameplay Instructions
+
+1. The game starts by displaying an empty board to the console.
+2. Player 1 (Red) is prompted to choose a column to drop their disk into.
+3. The board is updated and displayed again with the new disk in place.
+4. Player 2 (Yellow) then chooses a column for their disk.
+5. This alternation continues until the game detects a win, a draw, or continues the game.
+6. A winning condition is announced if a player connects four of their disks vertically, horizontally, or diagonally.
+7. In case of a full board without any player winning, the game declares a draw.
+
+## Rules
+
+- Players must alternately drop their colored disks into the grid.
+- Disks fall straight down, occupying the lowest available space within the chosen column.
+- The first player to form a horizontal, vertical, or diagonal line of four of their disks wins the game.
+- If the board is filled before either player achieves a win, the game is considered a draw.
+
