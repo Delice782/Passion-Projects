@@ -1,4 +1,5 @@
- /**
+
+/**
  * Hangman Game Implementation
  * <p>
  * This Java program implements a console-based version of the classic Hangman game.
