@@ -1,4 +1,4 @@
- /**This java program is designed to generates and validates
+  /**This java program is designed to generates and validates
  * passwords based on specified criteria: minimum length, minimum numbers of uppercase letters, 
  * digits, and special characters, and a set of allowed special characters.
  *  The program consists of two methods: 'generatePassword' for creating passwords
