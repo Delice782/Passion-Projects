@@ -34,7 +34,7 @@ public class RandomPasswordGenerator {
         // Checking if the generated password is valid (optional)
         System.out.println("Is the generated password valid? " + checkPassword(generatedPassword, minPassLength, minUpperChars, minDigits, minSpecialChars, allowedSpecialChars));
 	
-	    // Check if the generated password is valid
+	// Check if the generated password is valid
         boolean isValid = checkPassword(generatedPassword, minPassLength, minUpperChars, minDigits, minSpecialChars, allowedSpecialChars);
 
         // Provide feedback on password validity
