@@ -1,4 +1,4 @@
-                       
+                        
 /**  This java program is deigned to manage cash transactions effectively. It works by asking the user to enter the total cost of items a student has purchased and the amount the student has paid and it computes the change to give to the student and, to help the cashier, a breakdown of the denominations of notes and coins (in Ghana Cedis) to give to the student.  
 */
 
