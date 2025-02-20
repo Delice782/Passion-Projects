@@ -6,7 +6,7 @@
 -The amount the user will add to the investment account in each period after the initial one (deposit)
 -The number of periods the investment will accrue over (totalPeriods).  
 
-In other words, it computes the total value of the investment, and the total interest earned over the period (that is, the total value of the investment less the total amount paid in by the user).
+In other words, it computes the total value of the investment, and the total interest earned over the period (that is, the total value of the investment less t he total amount paid in by the user).
 */
 
 // Import the required libraries
