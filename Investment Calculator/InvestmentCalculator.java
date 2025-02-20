@@ -1,4 +1,4 @@
-                          
+                           
 /** This java program compute the total value of an investment and the interest earned over a period. It prompts the user:
 -For initial amount to invest (principal)
 -The yearly rate (rate)
